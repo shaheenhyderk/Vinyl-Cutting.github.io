@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Vinyl Cutting
 
-You can use the [editor on GitHub](https://github.com/shaheenhyderk/machines.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We can use Vinyl Cutting Machine to cut out a particular text or Sticker as per input given. Here We are using a software called cut studio.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://shaheenhyderk.github.io/
 
-### Markdown
+### Cut Studio
+Roland CutStudio software makes it easy to draw and edit circles and curves, position text on lines, and import and cut files in a wide range of formats from popular design packages. The software includes a Windows driver, Windows plug-ins for Adobe® Illustrator® and CorelDRAW®, and Mac Plug-in for Illustrator®. The result is a seamless, user-friendly operating environment.[For more information click here.](http://www.rolanddg.eu/en/applications/cutstudio)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+### Steps to use a vinyl Cutter
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+$ Open Cut studio
+$ If its text then Enter whatever you want to cut out
+$ Only lines should be there
+$ Ensure dimensions
+$ Select whole text and choose properties 
+$ Then Go to Vinyl Cutting machine and place paper
+$ Make sure the rolling objects are in white mark
+$ There could be 2 options role or sheet 
+$ Choose one by using arrows
+$ Then make print request from cut studio
+$ All done, and take it from vinyl cutter
+$ Paste wherever you like
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shaheenhyderk/machines.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

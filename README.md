@@ -2,7 +2,7 @@
 
 We can use Vinyl Cutting Machine to cut out a particular text or Sticker as per input given. Here We are using a software called cut studio.
 
-<img src="https://shaheenhyderk.github.io/
+<img src="https://shaheenhyderk.github.io/v8.jpg" width=700 height=500>
 
 ### Cut Studio
 Roland CutStudio software makes it easy to draw and edit circles and curves, position text on lines, and import and cut files in a wide range of formats from popular design packages. The software includes a Windows driver, Windows plug-ins for Adobe® Illustrator® and CorelDRAW®, and Mac Plug-in for Illustrator®. The result is a seamless, user-friendly operating environment.[For more information click here.](http://www.rolanddg.eu/en/applications/cutstudio)
@@ -23,3 +23,17 @@ $ Then make print request from cut studio
 $ All done, and take it from vinyl cutter
 $ Paste wherever you like
 ```
+
+### Printing Name
+```markdown
+$ First write name in cut studio
+$ Resize it
+$ Give print
+$ Adjust the printer
+$ Print it
+```
+<Img src="https://shaheenhyderk.github.io/IMG_20170817_220427.jpg" width=500 height=400>
+
+I have printed on my personal charger.
+
+You can also download images and trace from cut studio.

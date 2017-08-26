@@ -2,7 +2,7 @@
 
 We can use Vinyl Cutting Machine to cut out a particular text or Sticker as per input given. Here We are using a software called cut studio.
 
-<img src="https://shaheenhyderk.github.io/v8.jpg" width=700 height=500>
+<img src="https://shaheenhyderk.github.io/v8.jpg" width="700" height="500">
 
 ### Cut Studio
 Roland CutStudio software makes it easy to draw and edit circles and curves, position text on lines, and import and cut files in a wide range of formats from popular design packages. The software includes a Windows driver, Windows plug-ins for Adobe® Illustrator® and CorelDRAW®, and Mac Plug-in for Illustrator®. The result is a seamless, user-friendly operating environment.[For more information click here.](http://www.rolanddg.eu/en/applications/cutstudio)

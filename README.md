@@ -32,8 +32,8 @@ $ Give print
 $ Adjust the printer
 $ Print it
 ```
-<Img src="https://shaheenhyderk.github.io/IMG_20170817_220427.jpg" width=500 height=400>
+<Img src="https://shaheenhyderk.github.io/IMG_20170817_220427.jpg" width="500" height="400">
 
-I have printed on my personal charger.
+I have printed my name on my personal charger.
 
 You can also download images and trace from cut studio.
